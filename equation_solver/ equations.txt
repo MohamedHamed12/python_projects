@@ -1,0 +1,5 @@
+Number of equations: 4
+eq₁: 1x₁ + 3x₂ - 7x₃ + 4x₄= 0
+eq₂: 8x₁ - 1x₂ + 3x₃ + 6x₄= -1
+eq₃: -2x₁ + 10x₂ + 2x₃ + 8x₄= 2
+eq₄: -2x₁ + 10x₂ + 2x₃ + 20x₄= 2

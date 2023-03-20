@@ -1,0 +1,4 @@
+Number of equations: 3
+eq₁ :  a₁₁x₁ + a₁₂x₂ + a₁₃x₃  = a₁₀
+eq₂ :  a₂₁x₁ + a₂₂x₂ + a₂₃x₃  = a₂₀
+eq₃ :  a₃₁x₁ + a₃₂x₂ + a₃₃x₃  = a₃₀
